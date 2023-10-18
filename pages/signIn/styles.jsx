@@ -2,7 +2,7 @@ import {StyleSheet} from 'react-native'
 
 const styles = StyleSheet.create({
     container:{
-        backgroundColor:'#a7c1eb',
+        backgroundColor:'#CCCCFF',
         alignItems:'center',
         justifyContent:'center',
         flex:1,
@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
     },
     title:{
         fontSize: 40,
-        fontWeight:'bold'
+        fontWeight:'bold',
     },
     caixas:{
         alignItems:'center',
@@ -30,7 +30,7 @@ const styles = StyleSheet.create({
         borderRadius:10,
         width:'50%',
         height:50,
-        backgroundColor:'#5a7bb0',
+        backgroundColor:'#C1BDDA',
         alignItems:'center',
         justifyContent:'center',
     },
